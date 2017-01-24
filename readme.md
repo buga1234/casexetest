@@ -2,6 +2,10 @@
 
 This is simple chat system based on laravel framework. 
 
+## Application link
+
+http://buga1234.com/casexedu/public/home
+
 ## Database
 
 Here's the zip with sql file
