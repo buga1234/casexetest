@@ -14,6 +14,8 @@ Here's the zip with sql file
 
 In case of troubles with database connection please contact me: buga1234@gmail.com
 
+I'll give you my settings of database connection.
+
 ## Laravel generated class diagrams
 
 ### Auth diagram
