@@ -52,6 +52,8 @@
         </div>
     </div>
 
+    @if (Auth::check())
+
     <!-- Modal -->
     <div class="modal fade" id="send_message_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
         <form method="post" action="{{action('MessageController@sendMessage')}}">
@@ -84,4 +86,5 @@
         </form>
     </div>
 
+    @endif
 @endsection
